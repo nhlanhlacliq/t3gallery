@@ -9,6 +9,7 @@
 - [x] attach database to UI (uild schema)
 - [x] add authentication (w. clerk)
 - [ ] add image upload
+- [ ] "taint" (server only)
 - [ ] error management (w/ sentry)
 - [ ] Routing/image page (parralel routes)
 - [ ] delete button w/ server action
