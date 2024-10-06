@@ -9,7 +9,7 @@
 - [x] attach database to UI (uild schema)
 - [x] add authentication (w. clerk)
 - [x] add image upload
-- [ ] "taint" (server only)
+- [x] "taint" (server only)
 - [ ] use next Image component
 - [ ] error management (w/ sentry)
 - [ ] Routing/image page (parralel routes)
