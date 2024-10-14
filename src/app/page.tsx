@@ -10,7 +10,6 @@ const mockUrls = [
 
 const mockImages = mockUrls.map((url, i) => ({
   id: i + 1,
-
   url,
 }));
 
