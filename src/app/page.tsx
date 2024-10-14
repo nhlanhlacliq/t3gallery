@@ -7,6 +7,7 @@ import { getMyImages } from "~/server/queries";
 
 export const dynamic = "force-dynamic";
 async function Images() {
+  // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
   const images = await getMyImages();
 
   return (
