@@ -4,12 +4,14 @@
 
 - [x] Deploy (vercel)
 - [x] Scaffold basic UI with mock data
-- [ ] Tidy up build process
-- [ ] Set up database (vercel postgres)
-- [ ] attach database to UI
-- [ ] add authentication (w. clerk)
-- [ ] add image upload
-- [ ] error management (w/ sentry)
+- [x] Tidy up build process
+- [x] Set up database (vercel postgres)
+- [x] attach database to UI (uild schema)
+- [x] add authentication (w. clerk)
+- [x] add image upload
+- [x] "taint" (server only)
+- [x] use next Image component
+- [x] error management (w/ sentry)
 - [ ] Routing/image page (parralel routes)
 - [ ] delete button w/ server action
 - [ ] analytics (posthog)
